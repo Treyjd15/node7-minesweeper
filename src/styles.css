@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+
+
+body {
+  margin: 0px;
+}
+
+.app {
+  background-color: rgb(157, 169, 160);
+  font-family: 'ms_sans_serif';
+  src: url('${ms_sans_serif_bold}') format('woff2');
+  height: 100vh;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
